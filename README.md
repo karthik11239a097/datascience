@@ -8,9 +8,9 @@ A data science mini project focused on exploratory data analysis (EDA) and weath
 
 ```
 datascience/
-├── Climate.ipynb                        # Main Jupyter Notebook (EDA + Prediction)
-├── climate.csv                          # Dataset used for analysis
-└── Climate_Data_EDA_Project_Report.pdf  # Full project report
+├── Climate.ipynb                      -   Main Jupyter Notebook (EDA + Prediction)
+├── climate.csv                         -  Dataset used for analysis
+└── Climate_Data_EDA_Project_Report.pdf  - Full project report
 ```
 
 ---
